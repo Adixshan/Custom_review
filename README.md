@@ -20,7 +20,7 @@ sklearn (for ML model training & evaluation)
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/Sentiment-Analysis.git
+git clone https://github.com/Adixshan/Custom_review.git
 cd Sentiment-Analysis
 2️⃣ Install Dependencies
 bash
